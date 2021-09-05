@@ -5,7 +5,7 @@ https://www.kaggle.com/andrewmvd/isic-2019
 # Test data: https://drive.google.com/drive/folders/1SWkarJK9vDN2PEOO-bITZV6V-BefCar-?usp=sharing
 
 
-# Validation data: 
+# Validation data: https://drive.google.com/drive/folders/1eARQSEC2t9AzGxsReDL1jq2N5Bcgv675?usp=sharing
 
 
 # Train data: 
