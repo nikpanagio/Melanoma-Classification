@@ -10,7 +10,7 @@ https://www.kaggle.com/andrewmvd/isic-2019
 
 # Train data: 
 
-
+# Model Weights : 
 
 We perform the split into train,test and validation in the "1_Melanoma Classification_split_Train_Validation_Test_dataset.ipynb"
 
